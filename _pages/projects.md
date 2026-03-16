@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: collection of selected projects. More projects on my <a href='https://github.com/benseddikismail'>GitHub</a>.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Human-Centered AI & Cognitive Modeling, Learning Algorithms & Representation, Software Systems & Engineering]
 horizontal: false
 ---
 

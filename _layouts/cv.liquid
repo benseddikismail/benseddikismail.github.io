@@ -95,18 +95,24 @@ layout: default
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
+                {% when 'publications' %}
+                  {% include resume/publications.liquid %}
+                {% when 'research' %}
+                  {% include resume/volunteer.liquid %}
+                {% when 'teaching' %}
+                  {% include resume/volunteer.liquid %}
+                {% when 'industry' %}
+                  {% include resume/volunteer.liquid %}
                 {% when 'work' %}
                   {% include resume/work.liquid %}
-                {% when 'volunteer' %}
+                {% when 'activities' %}
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
-                  {% include resume/awards.liquid %}
+                  {% include resume/certificates.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
-                {% when 'publications' %}
-                  {% include resume/publications.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}

@@ -1,18 +1,18 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
+    - name: Name
+      value: Ismail Ben seddik
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th March 2000
     - name: Languages
-      value: English, German
+      value: Arabic, English, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: Master of Science in Computer Science
+      institution: Indiana University, Bloomington, IN, USA
       year: 1905
       description:
         - Description 1.
