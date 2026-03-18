@@ -167,7 +167,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Ismail%20Ben%20seddik%20%E2%80%93%20CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
