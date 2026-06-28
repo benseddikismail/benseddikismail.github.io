@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-from-connectomics-to-agi-rethinking-intelligence-through-brain-simulation",
+        },{id: "post-toward-context-aware-sycophancy-identifying-and-steering-the-signal",
+        
+          title: "Toward Context-Aware Sycophancy — Identifying and Steering the Signal",
+        
+        description: "can a model know when it&#39;s being sycophantic, and adjust accordingly?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/llm-sycophancy/";
+          
+        },
+      },{id: "post-from-connectomics-to-agi-rethinking-intelligence-through-brain-simulation",
         
           title: "From Connectomics to AGI — Rethinking Intelligence Through Brain Simulation",
         
@@ -51,11 +62,14 @@ ninja.data = [{
       },{id: "news-completed-my-fulbright-program-with-a-msc-in-computer-science",
           title: 'Completed my Fulbright Program with a MSc in Computer Science.',
           description: "",
-          section: "News",},{id: "news-presented-the-emopatt-lite-paper-at-the-20th-international-conference-on-information-technology-and-applications-icita-2025",
+          section: "News",},{id: "news-presented-the-emopatt-lite-paper-at-the-20th-international-conference-on-information-technology-and-applications-icita-2025-sparkles",
           title: 'Presented the EmoPAtt-Lite paper at the 20th International Conference on Information Technology and...',
           description: "",
-          section: "News",},{id: "news-joined-the-bioinformatics-lab-at-um6p-as-a-research-engineer-and-data-analyst-sparkles",
+          section: "News",},{id: "news-joined-the-bioinformatics-lab-at-um6p-as-a-research-engineer-and-data-analyst",
           title: 'Joined the Bioinformatics Lab at UM6P as a Research Engineer and Data Analyst....',
+          description: "",
+          section: "News",},{id: "news-response-aware-agronomic-representation-learning-for-similarity-based-npk-recommendation-accepted-for-presentation-at-the-6th-european-sustainable-phosphorus-conference-espc6-2026",
+          title: 'Response-Aware Agronomic Representation Learning for Similarity-Based NPK Recommendation Accepted for Presentation at the...',
           description: "",
           section: "News",},{id: "projects-bareos",
           title: 'bareOS',
@@ -157,6 +171,11 @@ ninja.data = [{
           description: "Speech Denoising using deep learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/speech_denoising/";
+            },},{id: "projects-collaboration-quality-in-student-llm-dyads",
+          title: 'Collaboration Quality in Student–LLM Dyads',
+          description: "Characterising the quality of student interaction with large language models",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/student_llm_collaboration/";
             },},{id: "projects-intelligent-support-agent",
           title: 'Intelligent Support Agent',
           description: "Chatbot through which users can get automatic support and processing of their requests",
