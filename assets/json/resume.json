@@ -60,7 +60,7 @@
       "position": "Research Engineer — Data Analyst",
       "startDate": "2025-11",
       "endDate": "",
-      "highlights": ["Investigating transfer learning and partial domain adaptation methods for field-scale yield prediction in low-data agricultural regions.", "Designing scalable ML pipelines (MLflow, Airflow, MinIO, Hive) to integrate multimodal data sources—remote sensing, soil, and weather—for field-level fertilizer recommendation."]
+      "highlights": ["Investigating transfer learning and partial domain adaptation methods for field-scale yield prediction in low-data agricultural regions.", "Designing scalable ML pipelines (MLflow, Airflow, MinIO, Hive) to integrate multimodal data sources for field-level fertilizer recommendation, a high-impact research initiative funded by OCP Nutricrops."]
     },
     {
       "organization": "Vehicle Autonomy and Intelligence Lab, Indiana University, Bloomington",

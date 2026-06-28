@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Bioinformatics Lab at UM6P as a Research Engineer and Data Analyst. :sparkles:
+Joined the Bioinformatics Lab at UM6P as a Research Engineer and Data Analyst.

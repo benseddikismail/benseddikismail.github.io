@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented the EmoPAtt-Lite paper at the 20th International Conference on Information Technology and Applications (ICITA 2025).
+Presented the EmoPAtt-Lite paper at the 20th International Conference on Information Technology and Applications (ICITA 2025). :sparkles:
