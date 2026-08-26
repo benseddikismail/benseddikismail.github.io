@@ -32,8 +32,6 @@ bareOS: Lightweight operating system.
 
 ## Main Contributions
 
-Despite its lightweight design, **EmoPAtt-Lite contains only 1.3M parameters** and achieves **state-of-the-art performance** on the **FER2013** benchmark:
-
 - A fully functional lightweight operating system kernel implemented in C, supporting multitasking, synchronization primitives, device I/O, and a filesystem.
 - A modular threading system with support for thread creation, suspension, resumption, joining, sleeping, and priority-based scheduling.
 - A preemptive scheduler driven by timer interrupts and ready/sleep queues, enabling responsive and fair task execution.

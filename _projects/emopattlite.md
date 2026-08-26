@@ -11,7 +11,7 @@ related_publications: true
 Facial expressions are a fundamental component of human communication, conveying a wide range of emotional states.  
 However, **facial expression recognition (FER)** in the wild remains challenging due to variations in pose, illumination, occlusion, and limited computational resources.
 
-**EmoPAtt-Lite** is a lightweight facial emotion recognition architecture designed to achieve **high accuracy with minimal computational cost**, making it suitable for deployment on resource-constrained devices  {% cite benseddik2025emopattlite %}.
+**EmoPAtt-Lite** is a lightweight facial emotion recognition architecture designed to achieve **high accuracy with minimal computational cost**, making it suitable for deployment on resource-constrained devices  {% cite benseddik2026emopattlite %}.
 
 <!-- <br> -->
 
