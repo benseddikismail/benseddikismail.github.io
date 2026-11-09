@@ -12,3 +12,15 @@ node_modules/
 vendor
 .idea
 .venv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.yml
