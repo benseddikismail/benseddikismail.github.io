@@ -48,9 +48,16 @@
     {
       "name": "EmoPAtt-Lite: Lightweight Facial Emotion Recognition",
       "publisher": "Springer Lecture Notes in Networks and Systems",
-      "releaseDate": "2025",
-      "url": "https://github.com/benseddikismail/EmoPAtt-Lite",
+      "releaseDate": "2026",
+      "url": "../../projects/emopattlite/",
       "summary": "First Author, International Conference on Information Technology and Applications (ICITA), 2025. Achieved 79.35% accuracy on FER2013 with only 1.3M parameters using novel attention mechanisms."
+    },
+    {
+      "name": "PODSAGE: An Evidence-Grounded Multi-Agent Framework for Adaptive Learning Through Stories and Conversational Podcasts",
+      "publisher": "Forthcoming in IEEE-indexed conference proceedings (SAMYRAD 2026)",
+      "releaseDate": "2026",
+      "url": "./../projects/podsage-agentic-framework/",
+      "summary": "An evidence-grounded, stateful multi-agent framework that integrates learner modeling, educational content generation, assessment, and recommendation to support adaptive learning through narratives and conversational podcasts."
     }
   ],
   "research": [
@@ -60,7 +67,7 @@
       "position": "Research Engineer — Data Analyst",
       "startDate": "2025-11",
       "endDate": "",
-      "highlights": ["Investigating transfer learning and partial domain adaptation methods for field-scale yield prediction in low-data agricultural regions.", "Designing scalable ML pipelines (MLflow, Airflow, MinIO, Hive) to integrate multimodal data sources for field-level fertilizer recommendation, a high-impact research initiative funded by OCP Nutricrops."]
+      "highlights": ["Developing representation-learning approaches integrating agronomic, environmental, and remote-sensing data for predictive modeling and fertilizer recommendation.", "Designing reproducible ML pipelines using MLflow, Airflow, MinIO, and Hive to support multimodal research and experimentation in an OCP Nutricrops-funded initiative."]
     },
     {
       "organization": "Vehicle Autonomy and Intelligence Lab, Indiana University, Bloomington",
@@ -78,7 +85,7 @@
       "position": "Computer Science Instructor",
       "startDate": "2024-06",
       "endDate": "2025-08",
-      "highlights": ["Teaching computer science courses, such as American Computer Science League (ACSL), and Artificial Intelligence, to students from diverse age groups and backgrounds.", "Designing comprehensive curricula, courses, and instructional materials tailored to various computer science topics."]
+      "highlights": ["Taught computer science courses, such as American Computer Science League (ACSL), and Artificial Intelligence, to students from diverse age groups and backgrounds.", "Designed comprehensive curricula, courses, and instructional materials tailored to various computer science topics."]
     },
     {
       "organization": "Indiana University, Bloomington",
@@ -102,7 +109,7 @@
       "position": "Chemistry and Physics Teaching Assistant",
       "startDate": "2020-01",
       "endDate": "2022-05",
-      "highlights": ["Led laboratory sessions and assisted with grading, proctoring, and student guidance."]
+      "highlights": ["Facilitated laboratory sessions, supported student learning, and assisted with course assessment."]
     }
   ],
   "industry": [
@@ -112,7 +119,7 @@
       "position": "Software Engineer",
       "startDate": "2022-09",
       "endDate": "2023-08",
-      "highlights": ["Designed, developed, and tested features for business groups and networks (e.g., Mastercard) using C, PL/SQL, Oracle, Unix, and Jenkins.", "Improved system reliability by designing fault-tolerant architectures and debugging critical failures."]
+      "highlights": ["Designed, developed, and tested features for business groups and networks (e.g., Mastercard) using C, PL/SQL, Oracle, and Jenkins.", "Improved system reliability by designing fault-tolerant architectures and debugging critical failures."]
     },
     {
       "organization": "Renault Group",

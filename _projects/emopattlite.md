@@ -3,7 +3,7 @@ layout: page
 title: EmoPAtt-Lite
 description: Lightweight facial emotion recognition
 img: assets/img/projects/emopattlite.png
-importance: 2
+importance: 5
 category: Human-Centered AI & Cognitive Modeling
 related_publications: true
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Image Reconstruction from Human Brain Activity
 description: High-fidelity image reconstruction from human brain activity using latent diffusion models
 img: assets/img/projects/img-reconstruction.png
-importance: 3
+importance: 6
 category: Human-Centered AI & Cognitive Modeling
 ---
 
@@ -30,7 +30,7 @@ Our framework integrates **Versatile Diffusion** with latent representations der
   Image Creation Pipeline. The process includes fMRI input, base image generation using an autoencoder,
   CLIP embedding extraction (visual and textual), and conditional refinement using the diffusion model.
   <br><br>
-  <a href="https://drive.google.com/file/d/1w_7iMii29GE_fcbepGQqZi1JjOsojSrC/view?usp=sharing"
+  <a href="https://drive.google.com/file/d/1HgSh6qCUmnG0vLji_zGiqLPljcCsdZXS/view?usp=sharing"
      class="btn btn-outline-secondary btn-sm"
      target="_blank">
     <i class="fas fa-video"></i> Demo

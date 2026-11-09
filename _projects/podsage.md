@@ -3,9 +3,9 @@ layout: page
 title: PODSAGE
 description: Story-driven AI for enhanced learning, comprehension, and retention
 img: assets/img/projects/podsage/podsage.png
-importance: 1
+importance: 4
 category: Human-Centered AI & Cognitive Modeling
-related_publications: true
+related_publications: false
 ---
 
 **PODSAGE** is an AI-driven educational storytelling platform that transforms complex concepts into engaging, interactive narratives. By combining fine-tuned large language models with multimodal delivery, PODSAGE enhances comprehension and long-term retention, particularly for neurodivergent and diverse learners {% cite podsage %}.
@@ -31,10 +31,14 @@ The platform generates adaptive, citation-aware stories that integrate text, aud
 <div class="caption text-center">
   Snapshots of the prototype for PODSAGE.
   <br><br>
-  <a href="https://drive.google.com/file/d/1r8jAQy-4bsrwuXo4aID5nmrNoHxJQUQe/view"
+  <a href="https://drive.google.com/file/d/1t0lzNSWOVXI-TRa-VxhpdnH14biS9Wc4/view?usp=sharing"
      class="btn btn-outline-secondary btn-sm"
      target="_blank">
     <i class="fas fa-video"></i> Demo
+  </a>
+
+  <a href="../../assets/pdf/PODSAGE.pdf" class="btn btn-outline-secondary btn-sm" target="_blank">
+    <i class="fas fa-graduation-cap"></i> Paper
   </a>
 </div>
 

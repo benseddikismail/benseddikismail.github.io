@@ -3,7 +3,7 @@ layout: page
 title: Speech Denoising
 description: Speech Denoising using deep learning
 img: assets/img/projects/speech_denoising.png
-importance: 4
+importance: 8
 redirect: https://github.com/benseddikismail/speech-denoising-dnn
 category: Human-Centered AI & Cognitive Modeling
 ---

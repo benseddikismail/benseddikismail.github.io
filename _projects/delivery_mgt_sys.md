@@ -3,7 +3,7 @@ layout: page
 title: Delivery Management System
 description: Delivery Management System designed for clients and administrators to efficiently and effectively handle and track deliveries
 img: assets/img/projects/dms_client.png
-importance: 4
+importance: 5
 category: Software Systems & Engineering
 ---
 

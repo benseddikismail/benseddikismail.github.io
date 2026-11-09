@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Modeling Rock Classification Using DL and Psychological Frameworks
+title: Computational Modeling of Human Visual Categorization
 description: Predicting psychological feature spaces from rock image similarity judgments
 img: assets/img/projects/rocks_classification.png
-redirect: https://github.com/benseddikismail/rocks-classification-NNvsMan
-importance: 5
+redirect: https://github.com/benseddikismail/visual-categorization-modeling
+importance: 9
 category: Human-Centered AI & Cognitive Modeling
 ---
 

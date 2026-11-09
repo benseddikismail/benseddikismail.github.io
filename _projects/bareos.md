@@ -3,7 +3,7 @@ layout: page
 title: bareOS
 description: A lightweight operating system featuring many modules including TTY support, thread scheduling, and a filesystem
 img: assets/img/projects/bareos.png
-importance: 3
+importance: 4
 category: Software Systems & Engineering
 ---
 

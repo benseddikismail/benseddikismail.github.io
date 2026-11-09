@@ -4,7 +4,7 @@ title: Matrix Multiplication
 description: MapReduce-based matrix multiplication algorithm
 img: assets/img/projects/matmul.png
 redirect: https://github.com/benseddikismail/matrix-multiplication-map-reduce-gcp
-importance: 1
+importance: 2
 category: Software Systems & Engineering
 ---
 

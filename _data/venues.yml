@@ -5,9 +5,12 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"SAMYRAD":
+  url: https://samyrad.com/
 
 "ICITA":
   url: https://www.icita.world/#/
+  color: "#00008B"
 
 "Preprint":
   color: "#fcd158"
