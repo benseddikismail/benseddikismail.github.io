@@ -7,4 +7,3 @@ redirect: https://github.com/benseddikismail/ewallet
 importance: 6
 category: Software Systems & Engineering
 ---
-

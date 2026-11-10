@@ -27,7 +27,7 @@ Engramics is a novel concept proposing that biological brains store information 
 
 One main objective is to decipher the neural code of natural intelligence. Through projects like MICrONS and FlyWire, researchers create digital twins of brains to uncover the blueprint of how they perform complex reasoning with minimal energy and data [4][10]. The aspiration is to implement those same algorithms on more powerful hardware. If AI can adopt the brain’s norms of energy-efficient computing, its reasoning potential could scale far beyond biological limits. Currently, however, AI requires megawatts of power and football-field-sized facilities to reproduce forms of intelligence that a mouse can achieve with just a few milliwatts of energy [3].
 
-AI holds the potential to learn a universal representation of intelligence that no single human could ever acquire in one lifetime [11]. While human circuits are built partly through limited life experience, a foundation model can pool massive data from multiple individuals and species [4]. For humans, when we learn something new that contradicts what we previously knew, the new information often overwrites the old. In contrast, large language models tend to preserve early training information while struggling to incorporate recent updates; attention mechanisms may privilege earlier encodings over recency (“Transformers remember first, forget last”). 
+AI holds the potential to learn a universal representation of intelligence that no single human could ever acquire in one lifetime [11]. While human circuits are built partly through limited life experience, a foundation model can pool massive data from multiple individuals and species [4]. For humans, when we learn something new that contradicts what we previously knew, the new information often overwrites the old. In contrast, large language models tend to preserve early training information while struggling to incorporate recent updates; attention mechanisms may privilege earlier encodings over recency (“Transformers remember first, forget last”).
 Arguably, architectural modifications that better mimic biological memory may therefore be justified. Is this the path to AGI? Or are efforts to achieve AGI in this way conceptually misguided? One common definition of AGI describes it as an AI capable of doing everything a human can do—but are humans truly general?
 
 Yann LeCun et al. recently introduced the concept of Superhuman Adaptable Intelligence (SAI), referring to adaptive intelligence capable of surpassing humans at any task we can perform, while also adapting to tasks beyond the human domain that have practical utility [12]. They argue that humans are highly specialized creatures optimized for tasks of evolutionary importance, particularly those fundamental to physical survival. A human-centered definition of AGI therefore overlooks the vast landscape of non-human intelligence. There is no reason to expect the most capable machines to mimic this narrow human survival toolkit.
@@ -35,7 +35,6 @@ Yann LeCun et al. recently introduced the concept of Superhuman Adaptable Intell
 Additionally, definitions based on benchmarking AI performance across ever-expanding test suites lack a clear metric for assessing intelligence itself. A more principled measure may be the speed of adaptation to new tasks, grounded in a definition of intelligence centered on learning and flexibility. The brain consists of multiple interacting systems rather than a single monolithic architecture, suggesting that a solitary system is unlikely to adapt in the same way humans do. Thus, a diversity of models and modalities may be necessary to achieve broad adaptability, rather than relying on one model that does it all.
 
 Natural cognitive systems rely on world models for simulation and planning. A world model is central to few-shot and zero-shot adaptation. Specialization and adaptation across diverse tasks can be enabled by self-supervised learning and predictive world models—shifting from token-level prediction toward latent prediction architectures. Ultimately, AI should be evaluated based on its reliability and efficiency in generating new competencies, rather than using human performance and behavior as the sole benchmark for progress.
-
 
 ## References
 
@@ -63,9 +62,6 @@ Natural cognitive systems rely on world models for simulation and planning. A wo
 
 [12] J. Goldfeder, P. Wyder, Y. LeCun, and R. Shwartz Ziv, “AI Must Embrace Specialization via Superhuman Adaptable Intelligence,” arXiv preprint arXiv:2602.23643, Feb. 2026.
 
-
-
-
 [12] V. Jain, "How AI could lead to a better understanding of the brain," [Commentary from Google Research], 2023.
 
 [13] M. R. Tavakoli et al., "Light-microscopy-based connectomic reconstruction of mammalian brain tissue," Nature, vol. 642, pp. 398–410, May 2025.
@@ -77,5 +73,3 @@ Natural cognitive systems rely on world models for simulation and planning. A wo
 [16] S. Rasp et al., "WeatherBench: A Benchmark Data Set for Data-Driven Weather Forecasting," Journal of Advances in Modeling Earth Systems, vol. 12, Aug. 2020.
 
 [17] J. M. Lueckmann et al., "ZAPBench: A Benchmark for Whole Brain Activity Prediction in Zebrafish," arXiv preprint arXiv:2503.02618 [Presented at ICLR 2025], 2025.
-
-

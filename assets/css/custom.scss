@@ -1,14 +1,13 @@
 .img-wrapper {
-    aspect-ratio: 16 / 9;   /* or 4 / 3 */
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .img-wrapper img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;   /* crops instead of stretching */
-  }
-  
+  aspect-ratio: 16 / 9; /* or 4 / 3 */
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* crops instead of stretching */
+}

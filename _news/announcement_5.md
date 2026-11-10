@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Response-Aware Agronomic Representation Learning for Similarity-Based NPK Recommendation* Accepted for Presentation at the 6th European Sustainable Phosphorus Conference (ESPC6), 2026.
+_Response-Aware Agronomic Representation Learning for Similarity-Based NPK Recommendation_ Accepted for Presentation at the 6th European Sustainable Phosphorus Conference (ESPC6), 2026.

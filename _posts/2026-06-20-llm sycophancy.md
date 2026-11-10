@@ -9,7 +9,7 @@ featured: true
 hidden: false
 ---
 
-*How will AI sycophancy change us? Early signs are not encouraging*, *AI overly affirms users asking for personal advice*, *AI chatbots are sycophants, researchers say it's harming science*: these are recent headlines, as more people sense the critical, and in many cases worrying, effects of Large Language Model (LLM) sycophancy.  
+_How will AI sycophancy change us? Early signs are not encouraging_, _AI overly affirms users asking for personal advice_, _AI chatbots are sycophants, researchers say it's harming science_: these are recent headlines, as more people sense the critical, and in many cases worrying, effects of Large Language Model (LLM) sycophancy.  
 LLM sycophancy refers to models' tendency to align their outputs with perceived user preferences over factual accuracy.
 
 Through qualitative thematic analysis of Reddit ChatGPT discussions, sycophancy could be studied sociologically; identifying how users detect and respond to it [1]. Users detect sycophancy through frequent flattery cues (exaggerated praise, service-oriented closers), situated-knowledge testing (probing the model with content the user already knows the truth about), inconsistency across rephrased prompts, and cross-platform/cross-model comparison. Mitigation occurs through persona-based prompts, imperative and neutral language, disregarding pleasantries, or switching to less sycophantic platforms entirely. This study of how users flag and respond to sycophancy supplies a necessary human-centered counterweight in contrast to studies that are purely algorithmic. Interestingly, it also suggests that sycophancy can serve as a real therapeutic function for vulnerable users, contrary to most literature framing sycophancy as a "bug."
@@ -29,6 +29,7 @@ Noshin et al. and Jain et al. show that current models cannot reliably tell the 
 The literature suggests a missing piece yet to be pursued, which I can summarize by these questions:
 
 > How can a model dynamically calibrate agreement and validation across task contexts (factual, political, advice-seeking, emotionally vulnerable) rather than apply a uniform policy by making sycophancy an explicit, detectable internal signal that is steerable during inference and fine-tuning?
+>
 > - Besides the single-domain MMLU opinion-injection setting [3], is there a circuit or a sycophancy-relevant direction in the model's representation that generalizes across domains?
 > - Instead of uniformly amplifying or suppressing agreement, can the internal signal be combined with a lightweight context classifier to conditionally steer behavior?
 > - What real-user outcomes (trust, perceived support, factual accuracy) does context-calibrated steering produce in contrast with an always-sycophantic or always-corrective baseline?
@@ -59,4 +60,3 @@ The same way a person calibrates their honesty to context and situation, we want
 [7] K. Fraser-Taliente, S. Kantamneni, E. Ong, D. Mossing, C. Lu, P. C. Bogdan, E. Ameisen, J. Chen, D. Kishylau, A. Pearce, J. Tarng, A. Wu, J. Wu, Y. Zhang, D. M. Ziegler, E. Hubinger, J. Batson, J. Lindsey, S. Zimmerman, and S. Marks, "Natural language autoencoders produce unsupervised explanations of LLM activations," Transformer Circuits Thread, 2026. [Online]. Available: https://transformer-circuits.pub/2026/nla
 
 [8] M. Turpin, J. Michael, E. Perez, and S. Bowman, "Language models don't always say what they think: Unfaithful explanations in chain-of-thought prompting," in Proc. Adv. Neural Inf. Process. Syst. (NeurIPS), 2023.
-

@@ -30,7 +30,13 @@
       "startDate": "2023-08-21",
       "endDate": "2025-05-15",
       "score": "10",
-      "courses": ["Elements of AI", "Applied Machine Learning", "Deep Learning Systems", "Engineering Cloud Computing", "Foundations of Large Language Models"]
+      "courses": [
+        "Elements of AI",
+        "Applied Machine Learning",
+        "Deep Learning Systems",
+        "Engineering Cloud Computing",
+        "Foundations of Large Language Models"
+      ]
     },
     {
       "institution": "Al Akhawayn University",
@@ -67,7 +73,10 @@
       "position": "Research Engineer — Data Analyst",
       "startDate": "2025-11",
       "endDate": "",
-      "highlights": ["Developing representation-learning approaches integrating agronomic, environmental, and remote-sensing data for predictive modeling and fertilizer recommendation.", "Designing reproducible ML pipelines using MLflow, Airflow, MinIO, and Hive to support multimodal research and experimentation in an OCP Nutricrops-funded initiative."]
+      "highlights": [
+        "Developing representation-learning approaches integrating agronomic, environmental, and remote-sensing data for predictive modeling and fertilizer recommendation.",
+        "Designing reproducible ML pipelines using MLflow, Airflow, MinIO, and Hive to support multimodal research and experimentation in an OCP Nutricrops-funded initiative."
+      ]
     },
     {
       "organization": "Vehicle Autonomy and Intelligence Lab, Indiana University, Bloomington",
@@ -75,7 +84,10 @@
       "position": "AI Engineer",
       "startDate": "2023-10",
       "endDate": "2024-05",
-      "highlights": ["Implemented state estimation algorithms for autonomous racing vehicles.", "Gained hands-on experience with sensor fusion (IMU, GNSS, LiDAR) and real-time robotics systems."]
+      "highlights": [
+        "Implemented state estimation algorithms for autonomous racing vehicles.",
+        "Gained hands-on experience with sensor fusion (IMU, GNSS, LiDAR) and real-time robotics systems."
+      ]
     }
   ],
   "teaching": [
@@ -85,7 +97,10 @@
       "position": "Computer Science Instructor",
       "startDate": "2024-06",
       "endDate": "2025-08",
-      "highlights": ["Taught computer science courses, such as American Computer Science League (ACSL), and Artificial Intelligence, to students from diverse age groups and backgrounds.", "Designed comprehensive curricula, courses, and instructional materials tailored to various computer science topics."]
+      "highlights": [
+        "Taught computer science courses, such as American Computer Science League (ACSL), and Artificial Intelligence, to students from diverse age groups and backgrounds.",
+        "Designed comprehensive curricula, courses, and instructional materials tailored to various computer science topics."
+      ]
     },
     {
       "organization": "Indiana University, Bloomington",
@@ -93,7 +108,10 @@
       "position": "Associate Instructor",
       "startDate": "2024-08",
       "endDate": "2025-05",
-      "highlights": ["Taught Pervasive Computing and Modeling & Simulation courses.", "Led lab and class sessions, developed course materials, and mentored students."]
+      "highlights": [
+        "Taught Pervasive Computing and Modeling & Simulation courses.",
+        "Led lab and class sessions, developed course materials, and mentored students."
+      ]
     },
     {
       "organization": "CS Academy",
@@ -119,7 +137,10 @@
       "position": "Software Engineer",
       "startDate": "2022-09",
       "endDate": "2023-08",
-      "highlights": ["Designed, developed, and tested features for business groups and networks (e.g., Mastercard) using C, PL/SQL, Oracle, and Jenkins.", "Improved system reliability by designing fault-tolerant architectures and debugging critical failures."]
+      "highlights": [
+        "Designed, developed, and tested features for business groups and networks (e.g., Mastercard) using C, PL/SQL, Oracle, and Jenkins.",
+        "Improved system reliability by designing fault-tolerant architectures and debugging critical failures."
+      ]
     },
     {
       "organization": "Renault Group",
@@ -127,7 +148,10 @@
       "position": "Software Engineer Intern",
       "startDate": "2022-02",
       "endDate": "2022-05",
-      "highlights": ["Designed and built a cross-platform digital wallet mobile application using React Native, Spring Boot, PostgreSQL, Docker, Kubernetes, GitLab CI/CD, and Google Cloud Platform.", "Ensured high-quality product delivery by adhering to the Scrum framework and applying cutting-edge UX design principles."]
+      "highlights": [
+        "Designed and built a cross-platform digital wallet mobile application using React Native, Spring Boot, PostgreSQL, Docker, Kubernetes, GitLab CI/CD, and Google Cloud Platform.",
+        "Ensured high-quality product delivery by adhering to the Scrum framework and applying cutting-edge UX design principles."
+      ]
     },
     {
       "organization": "Renault Group",
@@ -135,7 +159,10 @@
       "position": "Automation Engineer Intern",
       "startDate": "2021-07",
       "endDate": "2021-09",
-      "highlights": ["Built a chatbot and support automation system using Dialogflow and Selenium.", "Designed a web support platform using Django and jQuery."]
+      "highlights": [
+        "Built a chatbot and support automation system using Dialogflow and Selenium.",
+        "Designed a web support platform using Django and jQuery."
+      ]
     },
     {
       "organization": "Toubib.ma",
@@ -143,7 +170,10 @@
       "position": "Full Stack Web Developer Intern",
       "startDate": "2020-06",
       "endDate": "2020-08",
-      "highlights": ["Developed a REST API and geolocation features using Django and GeoDjango.", "Implemented scheduling and dashboard functionalities for patients."]
+      "highlights": [
+        "Developed a REST API and geolocation features using Django and GeoDjango.",
+        "Implemented scheduling and dashboard functionalities for patients."
+      ]
     }
   ],
   "activities": [
@@ -175,7 +205,6 @@
       "startDate": "2019-01",
       "endDate": "2022-05"
     }
-
   ],
   "awards": [
     {
@@ -262,24 +291,17 @@
     {
       "name": "Social",
       "icon": "fa-solid fa-person",
-      "keywords": [
-        "Learning Paradigms and Education Reform"
-      ]
+      "keywords": ["Learning Paradigms and Education Reform"]
     },
     {
       "name": "Entrepreneurship",
       "icon": "fa-solid fa-business",
-      "keywords": [
-        "Learning Paradigms and Education Reform"
-      ]
+      "keywords": ["Learning Paradigms and Education Reform"]
     },
     {
       "name": "Creative",
       "icon": "fa-solid fa-music",
-      "keywords": [
-        "Film Production",
-        "Music Theory and Production"
-      ]
+      "keywords": ["Film Production", "Music Theory and Production"]
     }
   ]
 }

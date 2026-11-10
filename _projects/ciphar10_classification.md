@@ -7,4 +7,3 @@ redirect: https://github.com/benseddikismail/ciphar10-shuffled-patches/tree/main
 importance: 3
 category: Learning Algorithms & Representation
 ---
-

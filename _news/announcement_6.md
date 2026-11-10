@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- :sparkles: *PODSAGE: An Evidence-Grounded Multi-Agent Framework for Adaptive Learning Through Stories and Conversational Podcasts* Presented at SAMYRAD 2026 (Seville, Spain). To Appear in IEEE-indexed Proceedings.
+:sparkles: _PODSAGE: An Evidence-Grounded Multi-Agent Framework for Adaptive Learning Through Stories and Conversational Podcasts_ Presented at SAMYRAD 2026 (Seville, Spain). To Appear in IEEE-indexed Proceedings.

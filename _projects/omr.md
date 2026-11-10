@@ -7,4 +7,3 @@ redirect: https://github.com/benseddikismail/image-processing-and-recognition
 importance: 5
 category: Learning Algorithms & Representation
 ---
-

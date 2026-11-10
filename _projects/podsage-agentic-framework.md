@@ -34,24 +34,24 @@ The proposed architecture centers on an **LLM Orchestrator** and an **Evidence-G
   </a> -->
 </div>
 
-#### Main Research Contributions  
+#### Main Research Contributions
 
-- **Evidence-Grounded Multi-Agent Architecture:** A stateful framework coordinating specialized agents for evidence retrieval, educational content generation, conversational audio, assessment, recommendation, and safeguards.  
+- **Evidence-Grounded Multi-Agent Architecture:** A stateful framework coordinating specialized agents for evidence retrieval, educational content generation, conversational audio, assessment, recommendation, and safeguards.
 
-- **Evidence-Grounding Council:** A multi-agent reasoning mechanism combining domain expertise, pedagogical and cognitive-science guidance, independent evaluation, adversarial critique, and citation verification to support reliable instructional decisions.  
+- **Evidence-Grounding Council:** A multi-agent reasoning mechanism combining domain expertise, pedagogical and cognitive-science guidance, independent evaluation, adversarial critique, and citation verification to support reliable instructional decisions.
 
-- **Dynamic Learner Modeling:** An evolving learner-state representation that integrates knowledge, misconceptions, memory strength, confidence, engagement, and preferences to guide personalized instruction, assessment difficulty, and review scheduling.  
+- **Dynamic Learner Modeling:** An evolving learner-state representation that integrates knowledge, misconceptions, memory strength, confidence, engagement, and preferences to guide personalized instruction, assessment difficulty, and review scheduling.
 
-- **Adaptive Narrative and Podcast Generation:** A framework for adapting story structure, analogies, dialogue, explanation depth, pacing, and conversational audio to individual learner needs while preserving factual accuracy.  
-  
-- **Evaluation Framework:** A proposed validation methodology combining component-level benchmarks, expert and LLM-based assessment, ablation studies, and controlled human-subject experiments measuring comprehension, knowledge transfer, and delayed retention.  
+- **Adaptive Narrative and Podcast Generation:** A framework for adapting story structure, analogies, dialogue, explanation depth, pacing, and conversational audio to individual learner needs while preserving factual accuracy.
+
+- **Evaluation Framework:** A proposed validation methodology combining component-level benchmarks, expert and LLM-based assessment, ablation studies, and controlled human-subject experiments measuring comprehension, knowledge transfer, and delayed retention.
 
 #### Research Directions
 
-- **Cognitive Modeling and Personalized Learning:** Investigating how learner interactions, self-explanations, confidence judgments, and retrieval performance can inform interpretable models of knowledge acquisition, misconceptions, and forgetting.  
+- **Cognitive Modeling and Personalized Learning:** Investigating how learner interactions, self-explanations, confidence judgments, and retrieval performance can inform interpretable models of knowledge acquisition, misconceptions, and forgetting.
 
-- **Multi-Agent Reasoning and Evidence Grounding:** Evaluating whether specialized agents, adversarial critique, and evidence verification improve the factual reliability and pedagogical quality of AI-generated learning materials.  
+- **Multi-Agent Reasoning and Evidence Grounding:** Evaluating whether specialized agents, adversarial critique, and evidence verification improve the factual reliability and pedagogical quality of AI-generated learning materials.
 
-- **Adaptive Learning and Long-Term Retention:** Studying how narrative personalization, retrieval practice, spaced repetition, and conversational interaction influence comprehension, knowledge transfer, and delayed recall.  
+- **Adaptive Learning and Long-Term Retention:** Studying how narrative personalization, retrieval practice, spaced repetition, and conversational interaction influence comprehension, knowledge transfer, and delayed recall.
 
-- **Human-Centered and Accessible AI:** Exploring adaptive educational interfaces that accommodate diverse cognitive needs, language proficiency, accessibility preferences, and learner autonomy.  
+- **Human-Centered and Accessible AI:** Exploring adaptive educational interfaces that accommodate diverse cognitive needs, language proficiency, accessibility preferences, and learner autonomy.

@@ -12,7 +12,7 @@ category: Software Systems & Engineering
 Built with modern web technologies and distributed systems principles, DeliverEase emphasizes scalability, service autonomy, and maintainability while supporting responsive, user-friendly interfaces.
 
 The platform adopts a hybrid architectural style that blends event-driven and request–response paradigms, enabling asynchronous processing for high-throughput workflows while preserving low-latency feedback for user-facing operations.
-        
+
 <!-- <br> -->
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
@@ -50,5 +50,5 @@ The platform adopts a hybrid architectural style that blends event-driven and re
 
 - **Architecture Style**  
   A hybrid architecture combining:
-    - Event-driven processing for asynchronous workflows and system decoupling
-    - Request–response APIs for immediate feedback and user-facing interactions
+  - Event-driven processing for asynchronous workflows and system decoupling
+  - Request–response APIs for immediate feedback and user-facing interactions

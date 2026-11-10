@@ -41,12 +41,12 @@ bareOS: Lightweight operating system.
 
 #### Kernel and System Services
 
-**Formatted Kernel Output**  
+**Formatted Kernel Output**
 
 - Implemented a custom `printf` function supporting formatted integer output (`%d`, `%x`) using UART-based console I/O.
 - Enables structured kernel logging without reliance on external libraries.
 
-**Kernel Initialization and Memory Reporting**  
+**Kernel Initialization and Memory Reporting**
 
 - Boot-time reporting of kernel layout, including:
   - Kernel start address
@@ -58,36 +58,36 @@ bareOS: Lightweight operating system.
 
 #### Threading and Scheduling
 
-**Thread Lifecycle Management**  
+**Thread Lifecycle Management**
 
 - Full support for thread creation, suspension, resumption, joining, sleeping, and termination.
 - Explicit thread states including `TH_READY`, `TH_RUNNING`, `TH_SLEEP`, `TH_WAITING`, and `TH_DEFUNCT`.
 
-**Preemptive Scheduling**  
+**Preemptive Scheduling**
 
 - Clock-interrupt–driven scheduler selecting runnable threads from a priority-ordered ready queue.
 - Relative-delay sleep queue enabling efficient timed suspension and wake-up of threads.
 
-**Context Switching**  
+**Context Switching**
 
 - Cooperative and preemptive context switching implemented via `ctxsw`.
 - Correct state transitions enforced during scheduling decisions.
 
 #### Synchronization Primitives
 
-**Semaphores**  
+**Semaphores**
 
 - Complete semaphore lifecycle support including creation, waiting, signaling, and deallocation.
 - Semaphore-based blocking ensures safe coordination between concurrent threads.
 
-**Thread Coordination**  
+**Thread Coordination**
 
 - Thread joining implemented using per-thread semaphores for deterministic parent–child synchronization.
 - Proper signaling of waiting threads upon thread termination.
 
 #### Shell and User Interaction
 
-**Interactive Shell**  
+**Interactive Shell**
 
 - UART-driven shell supporting:
   - Command parsing
@@ -95,7 +95,7 @@ bareOS: Lightweight operating system.
   - Variable expansion (`$?`)
   - Command execution via separate threads
 
-**Built-in Commands**  
+**Built-in Commands**
 
 - **hello**  
   Argument-aware greeting command with explicit error handling.
@@ -103,38 +103,38 @@ bareOS: Lightweight operating system.
 - **echo**  
   Supports both argument-based echoing and interactive line-based input with blocking behavior.
 
-**Process Isolation**  
+**Process Isolation**
 
 - Each shell command is executed in its own thread.
 - The shell waits for command completion before accepting new input, preserving execution order and return values.
 
 #### Memory Management
 
-**Dynamic Heap Allocation**  
+**Dynamic Heap Allocation**
 
 - Custom implementations of `malloc` and `free` using a first-fit allocation strategy.
 - Supports block splitting and coalescing to minimize fragmentation.
 
-**Free List Management**  
+**Free List Management**
 
 - Strict ordering of free blocks by address.
 - Guaranteed consolidation of adjacent free blocks to preserve allocator correctness.
 
 #### Device Drivers and I/O
 
-**UART Driver**  
+**UART Driver**
 
 - Interrupt-driven UART handling for both transmit and receive paths.
 - Circular buffers used for non-blocking data exchange.
 
-**TTY Subsystem**  
+**TTY Subsystem**
 
 - Blocking terminal input and output built atop the UART driver.
 - Semaphore-based synchronization ensures correctness under concurrent access.
 
 #### File System
 
-**RAM-Based File System**  
+**RAM-Based File System**
 
 - Lightweight in-memory filesystem supporting:
   - File creation and deletion
@@ -142,7 +142,7 @@ bareOS: Lightweight operating system.
   - Sequential read and write access
   - Block allocation and metadata management
 
-**Filesystem Initialization**  
+**Filesystem Initialization**
 
 - Boot-time creation, formatting, and mounting of the RAM disk filesystem.
 - Persistent metadata stored in memory-backed blocks.

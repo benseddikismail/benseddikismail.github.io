@@ -12,9 +12,8 @@ related_publications: false
 
 The platform generates adaptive, citation-aware stories that integrate text, audio, and visuals, grounded in cognitive science and educational psychology.
 
-    
     Technologies: Ollama (LLaMA 3.3), PyTorch, RAG, ElevenLabs, DeepFloyd IF, Flutter, FastAPI, Django, Spring Boot, Node.js, PostgreSQL, MongoDB, Redis, Google Cloud Platform
-    
+
 <!-- <br> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,8 +43,8 @@ The platform generates adaptive, citation-aware stories that integrate text, aud
 
 #### Main Contributions
 
-- A scalable, user-centric framework for generating emotionally engaging and pedagogically effective stories from complex concepts using LLMs.  
-- A demonstration that fine-tuning a lightweight LLM on a curated dataset distilled from a more powerful model (GPT-4.1) enables high-quality, efficient story generation.  
+- A scalable, user-centric framework for generating emotionally engaging and pedagogically effective stories from complex concepts using LLMs.
+- A demonstration that fine-tuning a lightweight LLM on a curated dataset distilled from a more powerful model (GPT-4.1) enables high-quality, efficient story generation.
 - A platform supporting both human and LLM-based evaluation, enabling continuous improvement and trust in educational storytelling systems.
 
 #### Research Directions Enabled by PODSAGE
@@ -62,7 +61,7 @@ The platform generates adaptive, citation-aware stories that integrate text, aud
 - **Narratives for LLM Reasoning**  
   Investigation of whether story-based prompting improves LLM reasoning, problem-solving, and knowledge transfer in complex domains.
 
-<!-- 
+<!--
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.

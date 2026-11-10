@@ -102,9 +102,7 @@ $(document).ready(function () {
       }
       // At the very bottom the trailing sections cannot reach the activation
       // line, so highlight the last section whose heading is on screen.
-      var atBottom =
-        window.innerHeight + window.scrollY >=
-        document.documentElement.scrollHeight - 2;
+      var atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 2;
       if (atBottom) {
         for (var j = items.length - 1; j >= 0; j--) {
           var top = items[j].target.getBoundingClientRect().top;

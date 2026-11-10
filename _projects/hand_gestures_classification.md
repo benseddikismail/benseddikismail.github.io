@@ -7,4 +7,3 @@ redirect: https://github.com/benseddikismail/hand-gestures-classification-ViT/tr
 importance: 7
 category: Learning Algorithms & Representation
 ---
-

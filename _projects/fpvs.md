@@ -7,4 +7,3 @@ redirect: https://github.com/benseddikismail/fast-periodic-visual-stimulation
 importance: 2
 category: Human-Centered AI & Cognitive Modeling
 ---
-

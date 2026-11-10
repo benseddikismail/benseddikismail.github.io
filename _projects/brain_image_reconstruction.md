@@ -11,7 +11,6 @@ category: Human-Centered AI & Cognitive Modeling
 
 Our framework integrates **Versatile Diffusion** with latent representations derived from brain activity using **VDVAE**, enabling a principled bridge between neural representations and visual perception. Additionally, **CLIP-based multimodal alignment** enhances semantic consistency between reconstructed images and their intended visual content.
 
-
     Technologies: Stable Diffusion, VDVAE, CLIP, Python, PyTorch, Neuroimaging Pipelines, fMRI
 
 <!-- <br> -->
@@ -56,8 +55,7 @@ Together, these components enable a robust pipeline for translating neural activ
 
 #### Main Contributions
 
-- A diffusion-based framework for reconstructing visual stimuli directly from fMRI data  
-- Integration of **latent neural representations** into the diffusion generation process  
-- Demonstration of the strengths and limitations of diffusion models for neural decoding  
-- Empirical insights into how scene complexity affects reconstruction fidelity  
- 
+- A diffusion-based framework for reconstructing visual stimuli directly from fMRI data
+- Integration of **latent neural representations** into the diffusion generation process
+- Demonstration of the strengths and limitations of diffusion models for neural decoding
+- Empirical insights into how scene complexity affects reconstruction fidelity

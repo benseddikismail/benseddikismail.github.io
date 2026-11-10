@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a  `Research Engineer` at the Bioinformatics Lab at Mohammed VI Polytechnic University. Previously, I was a `Fulbright scholar` and earned my  `MSc in Computer Science` from Indiana University, following a  `BSc in Computer Science` from Al Akhawayn University.
+I'm a `Research Engineer` at the Bioinformatics Lab at Mohammed VI Polytechnic University. Previously, I was a `Fulbright scholar` and earned my `MSc in Computer Science` from Indiana University, following a `BSc in Computer Science` from Al Akhawayn University.
 
 My research sits at the intersection of `human cognition and AI`, driven by a central question: how can we decode brain function to better understand human cognition and behavior, while designing AI systems that are aware of and responsive to human needs, capabilities, and intentions?
 
@@ -34,7 +34,7 @@ I pursue this research through two interconnected paths. First, I develop tools 
 
 At the core of this work lies a question that continues to fascinate me: how do thoughts become actions? The mechanisms by which the brain perceives, reasons, and acts remain deeply mysterious. Understanding this process can inform the design of technologies that not only advance AI but also extend human capabilities, enabling more natural and effective forms of human–machine interaction.
 
-I am always looking for opportunities to collaborate and contribute. Feel free to explore my interests through [selected projects](/projects/) and [posts](/blog).  
+I am always looking for opportunities to collaborate and contribute. Feel free to explore my interests through [selected projects](/projects/) and [posts](/blog).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
