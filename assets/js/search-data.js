@@ -59,17 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/from-connectomics-to-agi/";
           
         },
-      },{id: "news-presented-the-emopatt-lite-paper-at-the-20th-international-conference-on-information-technology-and-applications-icita-2025",
-          title: 'Presented the EmoPAtt-Lite paper at the 20th International Conference on Information Technology and...',
-          description: "",
-          section: "News",},{id: "news-joined-the-bioinformatics-lab-at-um6p-as-a-research-engineer-and-data-analyst",
+      },{id: "news-joined-the-bioinformatics-lab-at-um6p-as-a-research-engineer-and-data-analyst",
           title: 'Joined the Bioinformatics Lab at UM6P as a Research Engineer and Data Analyst....',
           description: "",
-          section: "News",},{id: "news-sparkles-response-aware-agronomic-representation-learning-for-similarity-based-npk-recommendation-accepted-for-presentation-at-the-6th-european-sustainable-phosphorus-conference-espc6-2026",
-          title: ':sparkles: Response-Aware Agronomic Representation Learning for Similarity-Based NPK Recommendation Accepted for Presentation at...',
+          section: "News",},{id: "news-response-aware-agronomic-representation-learning-for-similarity-based-npk-recommendation-accepted-for-presentation-at-the-6th-european-sustainable-phosphorus-conference-espc6-2026",
+          title: 'Response-Aware Agronomic Representation Learning for Similarity-Based NPK Recommendation Accepted for Presentation at the...',
           description: "",
-          section: "News",},{id: "news-sparkles-podsage-story-driven-ai-for-enhanced-learning-comprehension-and-retention-accepted-for-publication-and-presentation-at-samyrad-2026",
-          title: ':sparkles: PODSAGE: Story-Driven AI for Enhanced Learning, Comprehension, and Retention Accepted for Publication...',
+          section: "News",},{id: "news-sparkles-emopatt-lite-lightweight-facial-emotion-recognition-published-in-springer-s-lecture-notes-in-networks-and-systems-2026",
+          title: ':sparkles: EmoPAtt-Lite: Lightweight Facial Emotion Recognition* published in Springer’s Lecture Notes in Networks...',
+          description: "",
+          section: "News",},{id: "news-sparkles-podsage-an-evidence-grounded-multi-agent-framework-for-adaptive-learning-through-stories-and-conversational-podcasts-presented-at-samyrad-2026-seville-spain-to-appear-in-ieee-indexed-proceedings",
+          title: ':sparkles: PODSAGE: An Evidence-Grounded Multi-Agent Framework for Adaptive Learning Through Stories and Conversational...',
           description: "",
           section: "News",},{id: "projects-bareos",
           title: 'bareOS',
@@ -111,6 +111,11 @@ ninja.data = [{
           description: "Digital wallet and expense manager mobile application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ewallet/";
+            },},{id: "projects-fast-periodic-visual-stimulation",
+          title: 'Fast periodic visual stimulation',
+          description: "A simulation of the Fast Periodic Visual Stimulation (FPVS) paradigm for studying visual perception and stimulus processing through controlled, frequency-based visual presentation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fpvs/";
             },},{id: "projects-hand-gestures-classification",
           title: 'Hand Gestures Classification',
           description: "Hand gestures classification using a pre-trained Vision Transformer",
@@ -146,18 +151,33 @@ ninja.data = [{
           description: "Optical mark recognition for automated grading from scratch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/omr/";
+            },},{id: "projects-podsage-agentic-learning-framework",
+          title: 'PODSAGE — Agentic Learning Framework',
+          description: "Evidence-grounded multi-agent AI for adaptive learning through stories and conversational podcasts",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/podsage-agentic-framework/";
             },},{id: "projects-podsage",
           title: 'PODSAGE',
           description: "Story-driven AI for enhanced learning, comprehension, and retention",
           section: "Projects",handler: () => {
               window.location.href = "/projects/podsage/";
+            },},{id: "projects-podsage-learning-app",
+          title: 'Podsage — Learning App',
+          description: "A mobile-first note-taking and AI-powered learning application",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/podsage_app/";
+            },},{id: "projects-posner-cueing",
+          title: 'Posner cueing',
+          description: "Implementation of the Posner cueing paradigm to investigate visuospatial attention, attentional orienting, and reaction times to visual stimuli.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/posner_cueing/";
             },},{id: "projects-rnns-as-a-generative-model",
           title: 'RNNs as a Generative Model',
           description: "Generating the bottom half of MNIST digits using an RNN",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rnns_generation/";
-            },},{id: "projects-modeling-rock-classification-using-dl-and-psychological-frameworks",
-          title: 'Modeling Rock Classification Using DL and Psychological Frameworks',
+            },},{id: "projects-computational-modeling-of-human-visual-categorization",
+          title: 'Computational Modeling of Human Visual Categorization',
           description: "Predicting psychological feature spaces from rock image similarity judgments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rock_classification/";
