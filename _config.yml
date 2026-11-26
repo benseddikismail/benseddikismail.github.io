@@ -7,10 +7,10 @@ first_name: Ismail
 middle_name: Ben
 last_name: seddik
 contact_note: >
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: >- # ">-" folds lines into one and strips the trailing newline (keeps meta tags and JSON-LD valid)
+  Ismail Ben Seddik — Research Engineer at the Bioinformatics Lab, Mohammed VI Polytechnic University (UM6P), and Fulbright scholar working at the intersection of human cognition and AI: brain–computer interfaces, human-aware AI, and adaptive, human-centered systems.
 footer_text: >
-keywords: ismail, ben seddik, ismail ben seddik, benseddik, benseddikismail, ismailbenseddik # add your own keywords or leave empty
+keywords: ismail, ben seddik, ismail ben seddik, benseddik, benseddikismail, ismailbenseddik, Ismail Ben Seddik, Research Engineer, Fulbright scholar, UM6P, Mohammed VI Polytechnic University, Al Akhawayn University, Indiana University, human cognition and AI, brain-computer interface, human-aware AI, human-computer interaction, machine learning, cognitive modeling, affective computing # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -59,9 +59,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://benseddikismail.github.io/assets/img/profile_pic.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -260,8 +260,8 @@ display_categories: ["research", "synthesis", "tutorial"] # these categories wil
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ben Seddik, Ben seddik, Benseddik]
+  first_name: [Ismail]
 
   style: apa
   locale: en

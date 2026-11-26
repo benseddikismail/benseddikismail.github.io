@@ -1,0 +1,35 @@
+{% comment %}
+  Rich Person structured data for the homepage.
+  Strengthens entity recognition so name searches (e.g. "Ismail Ben Seddik")
+  can surface this site with job title, affiliation, and linked profiles.
+{% endcomment %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ismail Ben Seddik",
+    "alternateName": ["Ismail Benseddik", "benseddikismail"],
+    "url": "{{ site.url }}{{ site.baseurl }}/",
+    "image": "{{ site.url }}{{ site.baseurl }}/assets/img/profile_pic.png",
+    "jobTitle": "Research Engineer",
+    "description": "{{ site.description | strip_newlines | strip }}",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Bioinformatics Lab, Mohammed VI Polytechnic University (UM6P)",
+      "url": "https://bioinformatics.um6p.ma/"
+    },
+    "alumniOf": [
+      { "@type": "CollegeOrUniversity", "name": "Indiana University", "url": "https://www.indiana.edu/" },
+      { "@type": "CollegeOrUniversity", "name": "Al Akhawayn University", "url": "https://www.aui.ma/" }
+    ],
+    "knowsAbout": [
+      "Brain–computer interfaces",
+      "Human-aware AI",
+      "Human-computer interaction",
+      "Machine learning",
+      "Cognitive modeling",
+      "Affective computing"
+    ],
+    "sameAs": ["https://github.com/benseddikismail", "https://www.linkedin.com/in/benseddik-ismail"]
+  }
+</script>
